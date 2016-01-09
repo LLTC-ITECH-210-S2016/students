@@ -5,7 +5,7 @@ require 'octokit'
 require 'pp'
 
 TOKEN = ENV['TOKEN'] || raise("Please set TOKEN.")
-ORG = ENV['ORG'] || 'advanced-js'
+ORG = ENV['ORG'] || 'LLTC-ITECH-210-S2016'
 REPO = 'students'
 # TODO create team per term?
 TEAM = ENV['TERM'] || raise("Please set TERM (should match folder name).")

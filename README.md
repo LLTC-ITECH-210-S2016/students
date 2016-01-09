@@ -3,10 +3,10 @@
 Repository for practicing doing pull requests. Introduce yourself via a `GITHUB_USERNAME.json` file under the appropriate [`_data/TERM_YEAR/`](_data/) directory, and submit via pull request. Here's an example:
 
 ```javascript
-// _data/spring_2015/afeld.json
+// _data/spring_2015/SirYancy.json
 {
-  "emoji": "dancer",
-  "introduction": "Developer at 18F by day, dancer by night."
+  "emoji": ":sunglasses:",
+  "introduction": "Instructor of Information Technology."
 }
 ```
 
