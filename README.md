@@ -1,4 +1,4 @@
-# Student directory [![Build Status](https://travis-ci.org/advanced-js/students.svg?branch=gh-pages)](https://travis-ci.org/advanced-js/students)
+# Student directory [![Build Status](https://travis-ci.org/LLTC-ITECH-210-S2016/students.svg?branch=gh-pages)](https://travis-ci.org/LLTC-ITECH-210-S2016/students)
 
 Repository for practicing doing pull requests. Introduce yourself via a `GITHUB_USERNAME.json` file under the appropriate [`_data/TERM_YEAR/`](_data/) directory, and submit via pull request. Here's an example:
 
