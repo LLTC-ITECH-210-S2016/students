@@ -5,7 +5,7 @@ This assignment is designed to help you get used to using GitHub and the sometim
 
 Here is the basic workflow that for completing this assignment:
 
-1. Fork this repository by clicking the top right Fork button.
+1. Fork this repository by clicking the top right Fork button. [![GitHub forks](https://img.shields.io/github/forks/LLTC-ITECH-210-S2016/students.svg?style=social&label=Fork)](https://github.com/LLTC-ITECH-210-S2016/students/fork/)
 2. Select your user account to fork into.
 3. Clone the repo to your device
   * Command line: ```git clone https://github.com/<MYACCOUNT>/students.git```
