@@ -5,7 +5,20 @@ This assignment is designed to help you get used to using GitHub and the sometim
 
 Here is the basic workflow that for completing this assignment:
 
-1. Fork this repository: [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/LLTC-ITECH-210-S2016/students#fork-destination-box)
+1. Fork this repository by clicking the top right Fork button.
+2. Select your user account to fork into.
+3. Clone the repo to your device
+  * Command line: ```git clone https://github.com/<MYACCOUNT>/students.git```
+  * If using a GUI, you'll paste the link into that to pull it.
+4. Work out your solution locally.
+5. Commit your changes
+  * Command line: ```git add --all``` and then ```git commit -m "This is my solution"```
+  * GUI: Commit your changes.
+6. Push your changes
+  * CL: ```git push -u origin master```
+  * GUI: Push
+7. Create a Merge Request
+8. You're done!
 
 Repository for practicing doing pull requests. Introduce yourself via a `GITHUB_USERNAME.json` file under the appropriate [`_data/TERM_YEAR/`](_data/) directory, and submit via pull request. Here's an example:
 
