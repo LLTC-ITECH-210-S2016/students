@@ -17,8 +17,10 @@ Here is the basic workflow that for completing this assignment:
 6. Push your changes
   * CL: ```git push -u origin master```
   * GUI: Push
-7. Create a Merge Request
+7. Create a Pull Request to the base repo.
 8. You're done!
+
+We will walk through this in class.  It's not as hard as it looks.
 
 Repository for practicing doing pull requests. Introduce yourself via a `GITHUB_USERNAME.json` file under the appropriate [`_data/TERM_YEAR/`](_data/) directory, and submit via pull request. Here's an example:
 
