@@ -35,6 +35,3 @@ Repository for practicing doing pull requests. Introduce yourself via a `GITHUB_
 Using the format above, replace with your own `emoji` (choose from [this list](http://www.emoji-cheat-sheet.com/)) and `introduction`.
 
 ***Teachers: see the [meta](meta.md) file for usage instructions.***
-
-
-> Written with [StackEdit](https://stackedit.io/).
